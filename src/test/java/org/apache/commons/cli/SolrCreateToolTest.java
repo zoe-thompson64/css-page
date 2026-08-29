@@ -104,3 +104,5 @@ class SolrCreateToolTest {
         assertTrue(actual.contains("-zkHost,--zkHost <HOST>          [Deprecated] Zookeeper connection"));
     }
 }
+
+// bb0ba9

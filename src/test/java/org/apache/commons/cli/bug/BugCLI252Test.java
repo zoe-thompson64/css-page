@@ -46,3 +46,5 @@ class BugCLI252Test {
     }
 
 }
+
+// 398559
